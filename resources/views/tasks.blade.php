@@ -38,16 +38,16 @@
                                     <!-- Odd row -->
                                     <tr class="bg-white">
                                         <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                                            <?=$task->id;?>
+                                            {{ $task->id }}
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                            <?=$task->title;?>
+                                            {{ $task->title }}
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                            <?=$task->description;?>
+                                            {{ $task->description }}
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                            <?=$task->completed;?>
+                                            {{ $task->completed }}
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                             <a href="#" class="text-indigo-600 hover:text-indigo-900">Edit</a>
