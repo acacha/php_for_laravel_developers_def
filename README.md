@@ -14,6 +14,10 @@ I el resultat final de l'aplicació a:
 
 http://phpforlaravel.acacha.org/
 
+i el clone amb Laravel a:
+
+http://phpforlaraveldef.acacha.org/
+
 Aquest codi i screencasts han estat creats per Sergi Tur Badenas: https://github.com/acacha
 
 Més videos al canal de Youtube:
